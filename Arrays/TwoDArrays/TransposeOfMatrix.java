@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.TwoDArrays;
 
 public class TransposeOfMatrix {
     public static void main(String[] args) {

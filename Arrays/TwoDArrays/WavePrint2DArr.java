@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.TwoDArrays;
 
 public class WavePrint2DArr {
     public static void main(String[] args) {
